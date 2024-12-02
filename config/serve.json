@@ -5,7 +5,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "f9c6b930-8d5d-4550-bfd9-ed5f6ca443a8",
         "PageType": 8,
@@ -16,7 +16,7 @@
       }
     },
     "testForm_NewForm": {
-      "pageUrl": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "f9c6b930-8d5d-4550-bfd9-ed5f6ca443a8",
         "PageType": 8,
@@ -27,7 +27,7 @@
       }
     },
     "testForm_EditForm": {
-      "pageUrl": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "f9c6b930-8d5d-4550-bfd9-ed5f6ca443a8",
         "PageType": 6,
@@ -39,7 +39,7 @@
       }
     },
     "testForm_ViewForm": {
-      "pageUrl": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "f9c6b930-8d5d-4550-bfd9-ed5f6ca443a8",
         "PageType": 4,
@@ -51,7 +51,7 @@
       }
     },
     "testApp": {
-      "pageUrl": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/SitePages/myPage.aspx",
       "customActions": {
         "ca9eac70-7343-4972-88d6-672d50e9cf38": {
           "location": "ClientSideExtension.ApplicationCustomizer",

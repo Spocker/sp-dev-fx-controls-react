@@ -1105,18 +1105,18 @@ export default class ControlsTest extends React.Component<IControlsTestProps, IC
               allowMultipleSelections={true}
               selectChildrenIfParentSelected={true}
               //termsetNameOrID="61837936-29c5-46de-982c-d1adb6664b32" // id to termset that has a custom sort
-              termsetNameOrID="8ea5ac06-fd7c-4269-8d0d-02f541df8eb9"
+              termsetNameOrID="eee24dcc-064a-441a-872c-e5e911f8ba38"
               initialValues={[{
                 key: "c05250ff-80e7-41e6-bfb3-db2db62d63d3",
                 name: "Business",
                 path: "Business",
-                termSet: "8ea5ac06-fd7c-4269-8d0d-02f541df8eb9",
+                termSet: "eee24dcc-064a-441a-872c-e5e911f8ba38",
                 termSetName: "Trip Types"
               }, {
                 key: "a05250ff-80e7-41e6-bfb3-db2db62d63d3",
                 name: "BBusiness",
                 path: "BBusiness",
-                termSet: "8ea5ac06-fd7c-4269-8d0d-02f541df8eb9",
+                termSet: "eee24dcc-064a-441a-872c-e5e911f8ba38",
                 termSetName: "Trip Types"
               }]}
               validateOnLoad={true}
@@ -1163,7 +1163,7 @@ export default class ControlsTest extends React.Component<IControlsTestProps, IC
 
             <TaxonomyPicker
               allowMultipleSelections={true}
-              termsetNameOrID="8ea5ac06-fd7c-4269-8d0d-02f541df8eb9" // id to termset that has a default sort
+              termsetNameOrID="eee24dcc-064a-441a-872c-e5e911f8ba38" // id to termset that has a default sort
               panelTitle="Select Default Sorted Term"
               label="Service Picker"
               context={this.props.context}
@@ -2226,7 +2226,7 @@ export default class ControlsTest extends React.Component<IControlsTestProps, IC
         <div id="ModernTaxonomyPickerDiv" className={styles.container} hidden={!controlVisibility.ModernTaxonomyPicker}>
           <ModernTaxonomyPicker
             allowMultipleSelections={true}
-            termSetId={"7b84b0b6-50b8-4d26-8098-029eba42fe8a"}
+            termSetId={"eee24dcc-064a-441a-872c-e5e911f8ba38"}
             panelTitle="Panel title"
             label={"Modern Taxonomy Picker"}
             context={this.props.context}

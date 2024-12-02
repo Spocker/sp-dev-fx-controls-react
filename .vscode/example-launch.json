@@ -8,7 +8,7 @@
         "name": "Hosted workbench (chrome)",
         "type": "chrome",
         "request": "launch",
-        "url": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/workbench.aspx",
+        "url": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/workbench.aspx",
         "webRoot": "${workspaceRoot}",
         "sourceMaps": true,
         "sourceMapPathOverrides": {
@@ -26,7 +26,7 @@
         "name": "Hosted workbench (edge)",
         "type": "edge",
         "request": "launch",
-        "url": "https://enter-your-SharePoint-site.sharepoint.com/sites/mySite/_layouts/15/workbench.aspx",
+        "url": "https://nih.sharepoint.com/sites/NIDCR-intranetdev/_layouts/15/workbench.aspx",
         "webRoot": "${workspaceRoot}",
         "sourceMaps": true,
         "sourceMapPathOverrides": {
